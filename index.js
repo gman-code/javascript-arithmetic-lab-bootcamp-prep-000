@@ -10,8 +10,7 @@ function multiple(a, b){
 function divide(a, b){
   return a/b
 }
-function multiple(a,b){
-  return 6*6
-  36
-  }
+
+multiply (6*6)
+
 
