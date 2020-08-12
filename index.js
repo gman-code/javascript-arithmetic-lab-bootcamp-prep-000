@@ -10,4 +10,4 @@ function multiple(a, b){
 function divide(a, b){
   return a/b
 }
-mul
+multiple(5,6)
