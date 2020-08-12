@@ -14,8 +14,8 @@ describe('basic math functions', function () {
     expect(subtract).toExist
   })
 
-  it("'multiple()' is a valid function", function() {
-    expect(multiple).toExist
+  it("'multiply()' is a valid function", function() {
+    expect(multiply).toExist
   })
 
   it("'divide()' is a valid function", function() {
