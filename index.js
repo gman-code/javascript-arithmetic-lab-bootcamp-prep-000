@@ -11,7 +11,7 @@ function divide(a, b){
   return a/b
 }
 function multiple(a,b){
-  multiple(6,6)
-  (36)
+  return 6*6
+  36
   }
 
