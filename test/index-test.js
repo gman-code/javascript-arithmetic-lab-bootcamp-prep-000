@@ -31,7 +31,7 @@ describe('basic math functions', function () {
   })
   
   it('multiply(a, b) multiplies two numbers and returns the result', function() {
-    expect(multiply(a, b)).toEqual(6* 6)
+    expect(multiply(a, b)).toEqual(a* b)
   })
   
   it('divide(a, b) divides a by b and returns the result', function() {
