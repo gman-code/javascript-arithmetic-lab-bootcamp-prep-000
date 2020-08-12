@@ -5,7 +5,7 @@ function subtract(a, b){
   return a-b 
 }
 function multiple(a, b){
-  multiple(6*5)
+  multiple(6*6)
   return a*b 
 }
 function divide(a, b){
