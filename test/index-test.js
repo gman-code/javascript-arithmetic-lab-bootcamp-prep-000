@@ -11,15 +11,15 @@ describe('basic math functions', function () {
   })
 
   it("'subtract()' is a valid function", function() {
-    expect(add).toExist
+    expect(subtract).toExist
   })
 
   it("'multiple()' is a valid function", function() {
-    expect(add).toExist
+    expect(multiple).toExist
   })
 
   it("'divide()' is a valid function", function() {
-    expect(add).toExist
+    expect(divide).toExist
   })
 
   it('add(a, b) adds two numbers and returns the result', function() {
