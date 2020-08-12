@@ -10,4 +10,8 @@ function multiple(a, b){
 function divide(a, b){
   return a/b
 }
-multiple(5,6)
+function multiple(a,b){
+  multiple(6,6)
+  (36)
+  }
+
